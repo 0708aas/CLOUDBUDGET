@@ -1,0 +1,450 @@
+@media (max-width: 1200px) {
+
+    .container {
+        max-width: 960px;
+    }
+
+    .feaktures-info {
+        max-width: 255px;
+    }
+
+    .hero-h1 {
+        font-size: 60px;
+
+    }
+
+    .overiew-text {
+        max-width: 420px;
+
+    }
+
+    .feaktures-info {
+        max-width: 250px;
+
+    }
+
+    .stay-image3 {
+        width: 405px;
+        top: -6px;
+    }
+
+    .input-place {
+        width: 100%;
+    }
+
+    .stay-info-text {
+
+    }
+
+    .aboslute-image {
+        max-width: 489px;
+    }
+}
+
+@media (max-width: 992px) {
+
+    .burger-menu {
+        display: block;
+        background: none;
+        border: none;
+        width: 80px;
+        color: white;
+    }
+    .header-ul{
+        display: none;
+    }
+
+    .header-li {
+        margin: 0 0 15px 0;
+    }
+
+    .mobile-menu {
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: #ED4C5C;
+        width: 50vw;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 10;
+    }
+
+    .aboslute-image {
+        max-width: 388px;
+    }
+
+    .stay-image2 {
+        bottom: 3px;
+        width: 360px;
+        right: 10px;
+    }
+
+    .button-box {
+        display: none;
+    }
+
+    .overiew-title {
+        max-width: 327px;
+        font-size: 28px;
+        line-height: 31px;
+    }
+
+    .play-button {
+        top: 85px;
+    }
+
+    .feaktures-info {
+        max-width: 200px;
+    }
+
+    .hero {
+        margin: 0 auto -11px;
+        min-height: 446px;
+        padding: 180px 0 0;
+    }
+
+    .hero-h1 {
+        font-size: 39px;
+        margin-bottom: -8px;
+    }
+
+    .hero-text {
+        font-size: 15px;
+        max-width: 400px;
+        margin-bottom: 22px
+    }
+
+    header {
+        padding: 20px 21px;
+        top: -4px;
+
+    }
+
+
+    .hero-button {
+        font-weight: bold;
+        font-size: 8px;
+        line-height: 0;
+        padding: 16px 32px
+    }
+
+    .stay-image3 {
+        width: 344px;
+        top: -32px;
+        height: 290px;
+        left: -20px;
+
+    }
+
+
+    .stay-info-text {
+        max-width: 290px;
+        line-height: 128%;
+    }
+
+    .stay-text {
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    .stay-image {
+        width: 357px;
+        left: -10px;
+    }
+
+    .overiew-text {
+        max-width: 327px;
+    }
+
+    .input-place {
+        padding: 20px 0 20px 16px
+    }
+
+    .text-h2 {
+        font-size: 41px;
+        margin-bottom: 30px;
+    }
+
+    .text-list {
+        max-width: 331px;
+    }
+
+    .overiew-box {
+        padding: 24px 0
+    }
+
+    .vide-box {
+        height: 250px;
+        width: 371px;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .col-6 {
+        width: 100%;
+        padding: 0 98px;
+    }
+
+    .adreas {
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+
+    .aboslute-image {
+        max-width: 400px;
+    }
+
+    .feaktures-info {
+        max-width: 350px;
+    }
+
+    .col-6 {
+        width: 100%;
+        padding: 0 51px;
+    }
+
+    .overiew {
+        padding: 48px 0 0;
+    }
+
+    h2.featur-3 {
+        padding: 220px 0 0;
+        margin-bottom: 32px;
+    }
+
+    .col-4 {
+        width: 100%;
+        padding: 0 15px 120px;
+    }
+
+    .row {
+        justify-content: center;
+    }
+
+    .Features {
+        padding: 61px 0 0;
+    }
+
+    .col-3 {
+        width: 50%;
+        padding: 0 10px;
+    }
+
+    .tehnology-info {
+        font-size: 16px;
+    }
+
+    .bacround-box {
+        padding: 56px 0 78px;
+    }
+
+    .stay-image3 {
+        top: 14px;
+        height: 287px;
+        width: 336px;
+        left: 30px;
+    }
+
+    .stay-image {
+        top: 37px;
+        width: 358px;
+        left: 57px;
+    }
+
+    .stay-image2 {
+        bottom: -33px;
+        width: 357px;
+        right: 26px;
+    }
+
+    .text-list {
+        margin-bottom: 24px;
+    }
+
+    .input-text {
+        padding: 70px 0 0;
+    }
+
+    .footer-1 {
+        margin-top: 56px;
+    }
+
+    footer {
+        padding: 28px 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .gloud::before {
+        margin-right: 8px;
+    }
+
+    .gloud {
+        font-size: 12px;
+    }
+
+    .col-6 {
+        width: 100%;
+        padding: 0 45px;
+    }
+
+    .menu-burger-white {
+        width: 47px;
+    }
+
+    .container {
+        padding: 0;
+    }
+
+    header {
+        padding: 15px 10px;
+        top: -15px;
+    }
+
+    .hero {
+        padding: 100px 0 0;
+        min-height: 220px;
+    }
+
+    .hero-h1 {
+        font-size: 21px;
+        margin-bottom: -29px;
+    }
+
+    .hero-text {
+        font-size: 6px;
+        max-width: 198px;
+        margin-bottom: 2px;
+    }
+
+    .hero-button {
+        font-size: 6px;
+        line-height: 0;
+        padding: 9px 16px;
+    }
+
+    .overiew-title {
+        max-width: 150px;
+        font-size: 13px;
+        line-height: 18px;
+        margin: 0 auto 10px;
+    }
+
+    .overiew-text {
+        max-width: 200px;
+        font-size: 9px;
+        line-height: 140%;
+        text-align: justify;
+        margin-bottom: 6px;
+    }
+
+    .vide-box {
+        height: 187px;
+        width: 229px;
+        border-radius: 13px;
+    }
+
+    .play-button {
+        top: 70px;
+        width: 50px;
+    }
+
+    .col-4 {
+        width: 100%;
+        padding: 0 40px 120px;
+    }
+
+    h2.featur-3 {
+        line-height: 43px;
+        margin-bottom: 32px;
+
+    }
+
+    .features-box {
+        height: 207px;
+    }
+
+    .feaktures-info {
+        padding: 14px 14px 14px;
+    }
+
+    .features-text {
+        font-size: 16px;
+    }
+
+    .col-3 {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .tehnology {
+        padding: 13px 0 45px;
+    }
+
+    .tehnology-h2 {
+        font-size: 22px;
+        margin-bottom: 3px;
+    }
+
+    .tehnology-num {
+        font-size: 83px;
+    }
+
+
+    .stay-image3 {
+        top: 22px;
+        left: 2px;
+        height: 277px;
+        width: 284px;
+    }
+
+    .stay-image {
+        left: 34px;
+        width: 232px;
+        top: 39px;
+
+    }
+
+    .stay-image2 {
+        bottom: -38px;
+        width: 232px;
+        left: -13px;
+    }
+
+    .stay-image3 {
+        height: 190px;
+        width: 243px;
+        right: 19px;
+    }
+
+    .label-text {
+        display: block;
+    }
+
+    .aboslute-image {
+        max-width: 270px;
+    }
+
+    .tehnology-image {
+        bottom: -14px;
+    }
+
+    .feaktures-info {
+        max-width: 217px;
+    }
+
+    .col-3 {
+        width: 100%;
+        padding: 0 26px;
+    }
+
+    .adreas {
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+}
