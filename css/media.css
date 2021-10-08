@@ -303,8 +303,8 @@
     }
 
     header {
-        padding: 15px 10px;
-        top: -15px;
+        padding: 30px 16px;
+        left: 16px;
     }
 
     .hero {
@@ -317,8 +317,8 @@
     }
 
     .hero-text {
-        font-size: 6px;
-        max-width: 198px;
+        font-size: 12px;
+        max-width: 238px;
         margin-bottom: 14px;
     }
 
