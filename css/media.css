@@ -50,7 +50,8 @@
         width: 80px;
         color: white;
     }
-    .header-ul{
+
+    .header-ul {
         display: none;
     }
 
@@ -307,8 +308,7 @@
     }
 
     .hero {
-
-        min-height: 150px;
+        height: 30px;
     }
 
     .hero-h1 {
@@ -419,7 +419,7 @@
     .stay-image3 {
         height: 190px;
         width: 243px;
-       top: 26px;
+        top: 26px;
     }
 
     .label-text {
@@ -447,7 +447,8 @@
         margin-top: 15px;
         margin-bottom: 5px;
     }
-    .footer-1{
+
+    .footer-1 {
         padding: 0 51px;
     }
 }
