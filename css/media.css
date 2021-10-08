@@ -336,22 +336,24 @@
     }
 
     .overiew-text {
-        max-width: 249px;
-        font-size: 12px;
+        max-width: 301px;
+        font-size: 14px;
         line-height: 140%;
         text-align: justify;
         margin-bottom: 6px;
     }
 
     .vide-box {
-        height: 187px;
-        width: 255px;
-        border-radius: 13px;
+        height: 210px;
+        max-width: 280px;
+        border-radius: 15px;
+        left: 15px;
     }
 
     .play-button {
-        top: 70px;
+        top: 80px;
         width: 50px;
+        left: -6px;
     }
 
     .col-4 {
