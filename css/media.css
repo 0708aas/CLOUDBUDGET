@@ -345,15 +345,15 @@
 
     .vide-box {
         height: 210px;
-        max-width: 280px;
+        max-width: 300px;
         border-radius: 15px;
-        left: 15px;
+
     }
 
     .play-button {
         top: 80px;
         width: 50px;
-        left: -6px;
+
     }
 
     .col-4 {
@@ -400,9 +400,9 @@
 
     .stay-image3 {
         top: 22px;
-        left: 2px;
         height: 277px;
         width: 284px;
+        left: -17px;
     }
 
     .stay-image {
@@ -451,6 +451,6 @@
     }
 
     .footer-1 {
-        padding: 0 51px;
+        padding: 0 78px;
     }
 }
