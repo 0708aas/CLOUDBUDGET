@@ -133,8 +133,7 @@ header {
     color: #FFFFFF;
     text-align: center;
     margin: 0 auto 39px;
-    background: url("../images/Rectangle 3.png") center/cover;
-    /*background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url("../images/Rectangle 3.png") center/cover;*/
+    background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url("../images/Rectangle 3.png") center/cover;
 }
 
 .hero-h1 {
@@ -238,8 +237,6 @@ header {
 }
 
 .overiew-video {
-    width: 445px;
-    height: 310px;
     position: absolute;
     z-index: 1;
 
