@@ -353,7 +353,7 @@
     .play-button {
         top: 80px;
         width: 50px;
-
+        left: -17px;
     }
 
     .col-4 {
@@ -399,58 +399,63 @@
 
 
     .stay-image3 {
-        top: 22px;
         height: 277px;
         width: 284px;
-        left: -17px;
-    }
-
-    .stay-image {
-        left: 34px;
-        width: 232px;
-        top: 39px;
-
-    }
-
-    .stay-image2 {
-        bottom: -38px;
-        width: 232px;
-        left: -13px;
-    }
-
-    .stay-image3 {
-        height: 190px;
-        width: 243px;
         top: 26px;
+        left: -16px;
     }
+}
 
-    .label-text {
-        display: block;
-    }
+.stay-image {
+    left: 34px;
+    width: 232px;
+    top: 39px;
 
-    .aboslute-image {
-        max-width: 270px;
-    }
+}
 
-    .tehnology-image {
-        bottom: -14px;
-    }
+.stay-image2 {
+    bottom: -38px;
+    width: 232px;
+    left: -13px;
+}
 
-    .feaktures-info {
-        max-width: 217px;
-    }
+.stay-image3 {
+    height: 190px;
+    width: 243px;
+    top: 26px;
+}
 
-    .col-3 {
-        width: 100%;
-        padding: 0 26px;
-    }
+.label-text {
+    display: block;
+}
 
-    .adreas {
-        margin-top: 15px;
-        margin-bottom: 5px;
-    }
+.aboslute-image {
+    max-width: 270px;
+}
 
-    .footer-1 {
-        padding: 0 78px;
-    }
+.tehnology-image {
+    bottom: -14px;
+}
+
+.feaktures-info {
+    max-width: 217px;
+}
+
+.col-3 {
+    width: 100%;
+    padding: 0 26px;
+}
+
+.adreas {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.stay-text {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.footer-1 {
+    padding: 0 78px;
 }
