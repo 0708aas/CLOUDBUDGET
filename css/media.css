@@ -307,18 +307,19 @@
     }
 
     .hero {
-        height: 30px;
+
+        min-height: 150px;
     }
 
     .hero-h1 {
-        font-size: 21px;
-        margin-bottom: -29px;
+        font-size: 26px;
+        margin-bottom: -7px;
     }
 
     .hero-text {
         font-size: 6px;
         max-width: 198px;
-        margin-bottom: 2px;
+        margin-bottom: 14px;
     }
 
     .hero-button {
@@ -328,15 +329,15 @@
     }
 
     .overiew-title {
-        max-width: 150px;
-        font-size: 13px;
+        max-width: 184px;
+        font-size: 16px;
         line-height: 18px;
         margin: 0 auto 10px;
     }
 
     .overiew-text {
-        max-width: 200px;
-        font-size: 9px;
+        max-width: 249px;
+        font-size: 12px;
         line-height: 140%;
         text-align: justify;
         margin-bottom: 6px;
@@ -344,7 +345,7 @@
 
     .vide-box {
         height: 187px;
-        width: 229px;
+        width: 255px;
         border-radius: 13px;
     }
 
@@ -418,7 +419,7 @@
     .stay-image3 {
         height: 190px;
         width: 243px;
-        right: 19px;
+       top: 26px;
     }
 
     .label-text {
@@ -445,5 +446,8 @@
     .adreas {
         margin-top: 15px;
         margin-bottom: 5px;
+    }
+    .footer-1{
+        padding: 0 51px;
     }
 }
